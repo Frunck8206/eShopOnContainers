@@ -29,7 +29,7 @@ eShopOnContainers is provided in two flavors: Basic and Advanced.
 
 ### Basic scenario
 
-The basic scenario can be run locally using docker compose, and also deployed to a local Kubernetes cluster. Refer these Wiki pages to Get Started:
+The basic scenario can be run locally using docker compose, and also deployed to a local Kubernetes cluster. Refer to these Wiki pages to Get Started:
 
 - [CLI or Visual Studio Code](https://github.com/dotnet-architecture/eShopOnContainers/wiki/Windows-setup)
 - [Visual Studio (F5 experience)](https://github.com/dotnet-architecture/eShopOnContainers/wiki/Windows-setup#optional---use-visual-studio)
@@ -82,8 +82,8 @@ You can download them and start reviewing these Guides/eBooks here:
 
 | Architecting & Developing | Containers Lifecycle & CI/CD | App patterns with Xamarin.Forms |
 | ------------ | ------------|  ------------|
-| [![](img/Microservices-cover-small.png)](https://aka.ms/microservicesebook) | [![](img/DevOps-Cover-small.png)](https://aka.ms/dockerlifecycleebook) | [![](img/xamarin-enterprise-patterns-ebook-cover-small.png)](https://aka.ms/xamarinpatternsebook) |
-| <sup> <a href='https://aka.ms/microservicesebook'>**Download .PDF**</a> </sup>  | <sup> <a href='https://aka.ms/dockerlifecycleebook'>**Download** </a>  </sup> | <sup> <a href='https://aka.ms/xamarinpatternsebook'>**Download**  </a>  </sup> |
+| [![](img/architecture-book-cover-large-we.png)](https://aka.ms/microservicesebook) | [![](img/devops-book-cover-large-we.png)](https://aka.ms/dockerlifecycleebook) | [![](img/xamarin-enterprise-patterns-ebook-cover-large-we.png)](https://aka.ms/xamarinpatternsebook) |
+| <sup> <a href='https://aka.ms/microservicesebook'>**Download PDF**</a> </sup>  | <sup> <a href='https://aka.ms/dockerlifecycleebook'>**Download PDF** </a>  </sup> | <sup> <a href='https://aka.ms/xamarinpatternsebook'>**Download PDF**  </a>  </sup> |
 
 For more free e-Books check out [.NET Architecture center](https://dot.net/architecture). If you have an e-book feedback, let us know by creating a new issue here: <https://github.com/dotnet-architecture/ebooks/issues>
 
